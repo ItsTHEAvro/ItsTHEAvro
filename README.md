@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h2>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h2>
 <div align ="center">
   
   I'm Avro</br>
