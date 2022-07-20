@@ -14,7 +14,7 @@
 <h3 align="center">Contact Me 💬</h2>
 
 
-Write me a message on [Telegram](https://t.me/heyimavro/).
+Write me a message on [Telegram](https://t.me/itstheavro/).
 
     ☁️          ☁️         ☀️
        🎈    ☁️         ☁️           ☁️
