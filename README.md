@@ -2,7 +2,7 @@
 <div align ="center">
   
   I'm Avro</br>
-  I'm passionate about Web and App Development, Cybersecurity and CS.</br>
+  I'm passionate about Web Development, App Development, Cybersecurity and CS.</br>
   You can check out some of my works [here](https://itstheavro.github.io/).
 
 <h2 align="center">GitHub Stats</h2>
