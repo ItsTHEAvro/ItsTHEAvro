@@ -1,8 +1,8 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h2>
 <div align ="center">
-  
+  Hi!</br>
   I'm Avro</br>
-  I'm passionate about Web Development, App Development, Cybersecurity and CS.</br>
+  I'm passionate about Machine Learning, App Development, Cybersecurity and CS.</br>
   You can check out some of my works [here](https://itstheavro.github.io/).
 
 <h2 align="center">GitHub Stats</h2>
