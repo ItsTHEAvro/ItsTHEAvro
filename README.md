@@ -3,7 +3,7 @@
   Hi!</br>
   I'm Avro</br>
   I'm passionate about Machine Learning, App Development, Cybersecurity and CS.</br>
-  You can check out some of my works [here](https://itstheavro.github.io/).
+  You can check out some of my works [here](https://itstheavro.github.io).
 
 <h2 align="center">GitHub Stats</h2>
   
